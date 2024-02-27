@@ -1,0 +1,12 @@
+[package]
+name = "power"
+version = "0.0.0"
+edition = "2021"
+description = "A Rust library for accessing the Intel Running Average Power Limit (RAPL) interface on Intel and AMD CPUs."
+homepage = "https://github.com/Jakobzs/power"
+repository = "https://github.com/Jakobzs/power"
+documentation = "https://docs.rs/power"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
